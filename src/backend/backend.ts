@@ -37,7 +37,7 @@ export default Server(
         app.post('/price-oracle', async (req, res) => {
             ic.setOutgoingHttpOptions({
                 maxResponseBytes: 20_000n,
-                cycles: 500_000_000_000n, // HTTP outcalls cost cycles. Unused cycles are returned.
+                cycles: 500_000_000_000n, 
                 transformMethodName: 'transform'
             });
 
