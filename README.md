@@ -1,8 +1,6 @@
 # ICP Development Environment with TaigahG
-# Welcome to simple todo list with bad ui
-
-## Get started with one click:
-### Locally:
+## Welcome to simple todo list with bad ui
+A basic Web3 To-Do List application built using the Internet Computer Protocol (ICP) network. This project demonstrates how to deploy a fully on-chain dApp with a minimalistic (and admittedly bad) user interface. Perfect for learning the basics of Web3 development on ICP.
 
 ## 🚀 Develop
 
