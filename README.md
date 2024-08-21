@@ -17,7 +17,7 @@ Call the smart contract using `curl` on the command line:
 
 ```bash
 # contacts endpoint
-curl http://bkyz2-fmaaa-aaaaa-qaaaq-cai.localhost:4943/contacts
+curl http://bkyz2-fmaaa-aaaaa-qaaaq-cai.localhost:4943/ToDo
 # price-oracle endpoint
 curl -X POST http://bkyz2-fmaaa-aaaaa-qaaaq-cai.localhost:4943/price-oracle -H 'content-type: application/json' -d '{"pair": "ICP-USD"}'
 ```
